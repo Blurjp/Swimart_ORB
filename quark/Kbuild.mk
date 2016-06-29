@@ -1,0 +1,14 @@
+obj-y += main.o
+obj-y += ble_app.o
+obj-$(CONFIG_SERVICES_SENSOR) += sensing.o
+obj-y += service_counter.o
+obj-y += usb_app.o
+obj-y += wdt_helper.o
+obj-$(CONFIG_UI_SERVICE_IMPL) += ui_config.o
+obj-y += log_helper.o
+obj-y += ipc_helper.o
+obj-y += cfw_helper.o
+obj-y += system_setup.o
+obj-y += agm_app.o
+obj-y += ssd1360.o
+obj-y += DataFlash.o

@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/issm.td.debug/BUILDVARIANT/delimiter=;
+environment/project/issm.td.debug/BUILDVARIANT/operation=append
+environment/project/issm.td.debug/BUILDVARIANT/value=debug
+environment/project/issm.td.debug/append=true
+environment/project/issm.td.debug/appendContributed=true
+environment/project/issm.td.release/BUILDVARIANT/delimiter=;
+environment/project/issm.td.release/BUILDVARIANT/operation=append
+environment/project/issm.td.release/BUILDVARIANT/value=release
+environment/project/issm.td.release/append=true
+environment/project/issm.td.release/appendContributed=true
